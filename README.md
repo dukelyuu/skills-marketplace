@@ -170,8 +170,8 @@ Think of it as **npm for agent skills**: browse a curated catalog, inspect SKILL
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/skill-hub.git
-cd skill-hub
+git clone https://github.com/dukelyuu/skills-marketplace.git
+cd skills-marketplace
 ```
 
 ### 2. Start the backend

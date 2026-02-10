@@ -170,8 +170,8 @@ SkillHub 是全球首个专为 **AI Agent 技能** 打造的开源市场 —— 
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/your-username/skill-hub.git
-cd skill-hub
+git clone https://github.com/dukelyuu/skills-marketplace.git
+cd skills-marketplace
 ```
 
 ### 2. 启动后端

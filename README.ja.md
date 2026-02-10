@@ -171,8 +171,8 @@ AI エージェントスキルとは、Claude Code、Kiro、Cursor、Windsurf、
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/your-username/skill-hub.git
-cd skill-hub
+git clone https://github.com/dukelyuu/skills-marketplace.git
+cd skills-marketplace
 ```
 
 ### 2. バックエンドを起動

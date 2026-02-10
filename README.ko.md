@@ -170,8 +170,8 @@ SkillHub은 **AI 에이전트 스킬**을 위해 특별히 구축된 세계 최�
 ### 1. 저장소 클론
 
 ```bash
-git clone https://github.com/your-username/skill-hub.git
-cd skill-hub
+git clone https://github.com/dukelyuu/skills-marketplace.git
+cd skills-marketplace
 ```
 
 ### 2. 백엔드 시작
