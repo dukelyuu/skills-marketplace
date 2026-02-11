@@ -322,7 +322,7 @@ export default function Home() {
           <div className="flex items-center gap-4 text-xs text-muted-foreground">
             <span>{t('home.builtWith')}</span>
             <span className="w-1 h-1 rounded-full bg-border" />
-            <span>MIT License</span>
+            <span>Apache-2.0 license</span>
           </div>
         </div>
       </footer>
