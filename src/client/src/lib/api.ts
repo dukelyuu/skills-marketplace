@@ -1,5 +1,5 @@
 /*
- * API Client — SkillHub (FE-002)
+ * API Client — Skill MarketPlace (FE-002)
  * Axios instance with interceptors — real API only
  */
 import axios from "axios";

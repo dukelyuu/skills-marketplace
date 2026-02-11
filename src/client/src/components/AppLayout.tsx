@@ -113,7 +113,7 @@ export default function AppLayout({ children }: { children: ReactNode }) {
         <Link href="/">
           <div className="flex items-center gap-2">
             <Sparkles className="w-4 h-4 text-primary" />
-            <span className="font-semibold text-sm">SkillHub</span>
+            <span className="font-semibold text-sm">Skill MarketPlace</span>
           </div>
         </Link>
       </div>
@@ -139,7 +139,7 @@ export default function AppLayout({ children }: { children: ReactNode }) {
               <div className="flex items-center justify-between h-14 px-4 border-b border-border">
                 <div className="flex items-center gap-2">
                   <Sparkles className="w-4 h-4 text-primary" />
-                  <span className="font-semibold">SkillHub</span>
+                  <span className="font-semibold">Skill MarketPlace</span>
                 </div>
                 <button
                   onClick={() => setMobileOpen(false)}

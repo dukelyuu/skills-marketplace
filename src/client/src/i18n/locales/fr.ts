@@ -59,7 +59,7 @@ export default {
     viewOnGithub: "Voir sur GitHub",
     searchSkills: "Rechercher des Skills",
     explore: "Explorer",
-    footer: "SkillHub — Plateforme Agent Skill open source",
+    footer: "Skill MarketPlace — Plateforme Agent Skill open source",
     builtWith: "Construit avec FastAPI + React",
   },
   marketplace: {

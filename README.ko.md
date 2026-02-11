@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="docs/ui-slices/00-original-designs/01_skill_marketplace.png" alt="SkillHub Marketplace" width="800" />
+  <img src="docs/ui-slices/00-original-designs/01_skill_marketplace.png" alt="Skill MarketPlace Marketplace" width="800" />
 </p>
 
-<h1 align="center">🛠️ SkillHub — 세계 최초의 AI 에이전트 스킬 마켓플레이스</h1>
+<h1 align="center">🛠️ Skill MarketPlace — 세계 최초의 AI 에이전트 스킬 마켓플레이스</h1>
 
 <p align="center">
   <strong>모든 주요 IDE와 에이전트 플랫폼에서 AI 에이전트 스킬을 발견, 관리, 공유하세요.</strong>
@@ -36,9 +36,9 @@
 
 ---
 
-## SkillHub이란?
+## Skill MarketPlace이란?
 
-SkillHub은 **AI 에이전트 스킬**을 위해 특별히 구축된 세계 최초의 오픈소스 마켓플레이스입니다. AI 에이전트 스킬은 Claude Code, Kiro, Cursor, Windsurf, GitHub Copilot, Cline 등의 코딩 에이전트를 구동하는 재사용 가능하고 조합 가능한 빌딩 블록입니다.
+Skill MarketPlace은 **AI 에이전트 스킬**을 위해 특별히 구축된 세계 최초의 오픈소스 마켓플레이스입니다. AI 에이전트 스킬은 Claude Code, Kiro, Cursor, Windsurf, GitHub Copilot, Cline 등의 코딩 에이전트를 구동하는 재사용 가능하고 조합 가능한 빌딩 블록입니다.
 
 **에이전트 스킬의 npm**이라고 생각하세요: 엄선된 카탈로그를 탐색하고, SKILL.md 정의를 확인하고, 원클릭으로 에이전트에 가져오고, 레지스트리에 데이터를 공급하는 GitHub 소스를 관리 — 모든 것을 아름다운 다크 모드 UI에서 수행합니다.
 
@@ -209,7 +209,7 @@ docker-compose up --build
 
 ## 배포
 
-SkillHub은 프론트엔드와 백엔드를 분리하여 배포합니다:
+Skill MarketPlace은 프론트엔드와 백엔드를 분리하여 배포합니다:
 
 - **프론트엔드** → Cloudflare Pages (정적 SPA)
 - **백엔드** → Fly.io (FastAPI + SQLite 영구 볼륨)
@@ -257,7 +257,7 @@ skill-hub/
 
 ## 로드맵
 
-SkillHub은 단계적 개발 계획을 따릅니다. 현재 V1.0 릴리스는 핵심 마켓플레이스, 소스 관리, 에디터, 대시보드 및 배포 인프라를 포함합니다. 향후 버전에서는 플랫폼을 완전한 Skill 생태계로 확장합니다.
+Skill MarketPlace은 단계적 개발 계획을 따릅니다. 현재 V1.0 릴리스는 핵심 마켓플레이스, 소스 관리, 에디터, 대시보드 및 배포 인프라를 포함합니다. 향후 버전에서는 플랫폼을 완전한 Skill 생태계로 확장합니다.
 
 ### ✅ V1.0 — 핵심 플랫폼 (현재)
 
@@ -315,7 +315,7 @@ SkillHub은 단계적 개발 계획을 따릅니다. 현재 V1.0 릴리스는 �
 
 ## 디자인
 
-SkillHub은 **Obsidian Forge** 다크 테마를 사용합니다:
+Skill MarketPlace은 **Obsidian Forge** 다크 테마를 사용합니다:
 
 - 프라이머리: `#6366f1` (Indigo)
 - 액센트: `#22d3ee` (Cyan)

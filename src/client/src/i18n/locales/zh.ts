@@ -59,7 +59,7 @@ export default {
     viewOnGithub: "在 GitHub 查看",
     searchSkills: "搜索Skill",
     explore: "探索",
-    footer: "SkillHub — 开源 Agent Skill平台",
+    footer: "Skill MarketPlace — 开源 Agent Skill平台",
     builtWith: "基于 FastAPI + React 构建",
   },
   marketplace: {
@@ -186,7 +186,7 @@ export default {
     tokenPlaceholder: "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     testToken: "测试 Token",
     syncSchedule: "同步计划",
-    syncDesc: "配置 SkillHub 自动从 GitHub 同步所有活跃数据源的频率。",
+    syncDesc: "配置 Skill MarketPlace 自动从 GitHub 同步所有活跃数据源的频率。",
     frequency: "频率",
     concurrency: "并发数",
     every1hour: "每 1 小时",

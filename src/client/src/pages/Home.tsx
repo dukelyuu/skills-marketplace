@@ -56,7 +56,7 @@ export default function Home() {
               <div className="w-7 h-7 rounded-lg bg-primary/20 flex items-center justify-center">
                 <Sparkles className="w-4 h-4 text-primary" />
               </div>
-              <span className="font-bold text-lg tracking-tight">SkillHub</span>
+              <span className="font-bold text-lg tracking-tight">Skill MarketPlace</span>
             </div>
           </Link>
           <nav className="hidden md:flex items-center gap-6 text-sm text-muted-foreground">

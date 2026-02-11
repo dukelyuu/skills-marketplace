@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="docs/ui-slices/00-original-designs/01_skill_marketplace.png" alt="SkillHub Marketplace" width="800" />
+  <img src="docs/ui-slices/00-original-designs/01_skill_marketplace.png" alt="Skill MarketPlace Marketplace" width="800" />
 </p>
 
-<h1 align="center">🛠️ SkillHub — 全球首个 AI Agent 技能市场</h1>
+<h1 align="center">🛠️ Skill MarketPlace — 全球首个 AI Agent 技能市场</h1>
 
 <p align="center">
   <strong>发现、管理和分享 AI Agent 技能，覆盖所有主流 IDE 和 Agent 平台。</strong>
@@ -36,9 +36,9 @@
 
 ---
 
-## SkillHub 是什么？
+## Skill MarketPlace 是什么？
 
-SkillHub 是全球首个专为 **AI Agent 技能** 打造的开源市场 —— 这些技能是驱动 Claude Code、Kiro、Cursor、Windsurf、GitHub Copilot、Cline 等编程 Agent 的可复用、可组合的构建模块。
+Skill MarketPlace 是全球首个专为 **AI Agent 技能** 打造的开源市场 —— 这些技能是驱动 Claude Code、Kiro、Cursor、Windsurf、GitHub Copilot、Cline 等编程 Agent 的可复用、可组合的构建模块。
 
 你可以把它理解为 **Agent 技能的 npm**：浏览精选目录、查看 SKILL.md 定义、一键导入到你的 Agent、管理为注册表提供数据的 GitHub 源 —— 所有操作都在一个精心设计的暗色主题 UI 中完成。
 
@@ -209,7 +209,7 @@ docker-compose up --build
 
 ## 部署
 
-SkillHub 采用前后端分离部署架构：
+Skill MarketPlace 采用前后端分离部署架构：
 
 - **前端** → Cloudflare Pages（静态 SPA）
 - **后端** → Fly.io（FastAPI + SQLite 持久化卷）
@@ -257,7 +257,7 @@ skill-hub/
 
 ## 路线图
 
-SkillHub 采用分阶段开发计划。当前 V1.0 版本涵盖核心市场、数据源管理、编辑器、仪表盘和部署基础设施。后续版本将把平台扩展为完整的 Skill 生态系统。
+Skill MarketPlace 采用分阶段开发计划。当前 V1.0 版本涵盖核心市场、数据源管理、编辑器、仪表盘和部署基础设施。后续版本将把平台扩展为完整的 Skill 生态系统。
 
 ### ✅ V1.0 — 核心平台（当前版本）
 
@@ -315,7 +315,7 @@ SkillHub 采用分阶段开发计划。当前 V1.0 版本涵盖核心市场、�
 
 ## 设计
 
-SkillHub 使用 **Obsidian Forge** 暗色主题：
+Skill MarketPlace 使用 **Obsidian Forge** 暗色主题：
 
 - 主色：`#6366f1`（Indigo 靛蓝）
 - 强调色：`#22d3ee`（Cyan 青色）

@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="docs/ui-slices/00-original-designs/01_skill_marketplace.png" alt="SkillHub Marketplace" width="800" />
+  <img src="docs/ui-slices/00-original-designs/01_skill_marketplace.png" alt="Skill MarketPlace Marketplace" width="800" />
 </p>
 
-<h1 align="center">🛠️ SkillHub — 世界初の AI エージェントスキルマーケットプレイス</h1>
+<h1 align="center">🛠️ Skill MarketPlace — 世界初の AI エージェントスキルマーケットプレイス</h1>
 
 <p align="center">
   <strong>主要な IDE とエージェントプラットフォーム全体で、AI エージェントスキルを発見・管理・共有。</strong>
@@ -36,9 +36,9 @@
 
 ---
 
-## SkillHub とは？
+## Skill MarketPlace とは？
 
-SkillHub は、**AI エージェントスキル**のために特別に構築された世界初のオープンソースマーケットプレイスです。
+Skill MarketPlace は、**AI エージェントスキル**のために特別に構築された世界初のオープンソースマーケットプレイスです。
 AI エージェントスキルとは、Claude Code、Kiro、Cursor、Windsurf、GitHub Copilot、Cline などのコーディングエージェントを動かす、再利用可能で組み合わせ可能なビルディングブロックです。
 
 **エージェントスキルの npm** と考えてください：厳選されたカタログを閲覧し、SKILL.md 定義を確認し、ワンクリックでエージェントにインポートし、レジストリにデータを供給する GitHub ソースを管理 — すべてを美しいダークモード UI で実現します。
@@ -210,7 +210,7 @@ docker-compose up --build
 
 ## デプロイ
 
-SkillHub はフロントエンドとバックエンドを分離してデプロイします：
+Skill MarketPlace はフロントエンドとバックエンドを分離してデプロイします：
 
 - **フロントエンド** → Cloudflare Pages（静的 SPA）
 - **バックエンド** → Fly.io（FastAPI + SQLite 永続ボリューム）
@@ -258,7 +258,7 @@ skill-hub/
 
 ## ロードマップ
 
-SkillHub は段階的な開発計画に従っています。現在の V1.0 リリースはコアマーケットプレイス、ソース管理、エディタ、ダッシュボード、デプロイインフラをカバーしています。今後のバージョンでは、プラットフォームを完全な Skill エコシステムに拡張します。
+Skill MarketPlace は段階的な開発計画に従っています。現在の V1.0 リリースはコアマーケットプレイス、ソース管理、エディタ、ダッシュボード、デプロイインフラをカバーしています。今後のバージョンでは、プラットフォームを完全な Skill エコシステムに拡張します。
 
 ### ✅ V1.0 — コアプラットフォーム（現在）
 
@@ -316,7 +316,7 @@ SkillHub は段階的な開発計画に従っています。現在の V1.0 リ�
 
 ## デザイン
 
-SkillHub は **Obsidian Forge** ダークテーマを使用：
+Skill MarketPlace は **Obsidian Forge** ダークテーマを使用：
 
 - プライマリ：`#6366f1`（Indigo）
 - アクセント：`#22d3ee`（Cyan）

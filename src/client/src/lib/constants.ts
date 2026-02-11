@@ -1,4 +1,4 @@
-// SkillHub — Shared Constants
+// Skill MarketPlace — Shared Constants
 // Extracted from Marketplace.tsx for reuse across pages
 
 export const TAG_COLORS: Record<string, { bg: string; text: string; border: string }> = {

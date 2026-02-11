@@ -355,7 +355,7 @@ ${skill.license}
       tags: skill.tags,
       github_url: skill.github_url,
     }, null, 2));
-    folder.file("README.md", `# ${skill.name}\n\n${skill.description}\n\n> Generated from SkillHub\n`);
+    folder.file("README.md", `# ${skill.name}\n\n${skill.description}\n\n> Generated from Skill MarketPlace\n`);
     const blob = await zip.generateAsync({ type: "blob" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");

@@ -1,4 +1,4 @@
-// SkillHub — Shared TypeScript interfaces
+// Skill MarketPlace — Shared TypeScript interfaces
 // Matches backend API response shapes
 
 export interface Skill {

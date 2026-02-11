@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="docs/ui-slices/00-original-designs/01_skill_marketplace.png" alt="SkillHub Marketplace" width="800" />
+  <img src="docs/ui-slices/00-original-designs/01_skill_marketplace.png" alt="Skill MarketPlace Marketplace" width="800" />
 </p>
 
-<h1 align="center">🛠️ SkillHub — The World's First Agent Skill Marketplace</h1>
+<h1 align="center">🛠️ Skill MarketPlace — The World's First Agent Skill Marketplace</h1>
 
 <p align="center">
   <strong>Discover, manage, and share AI agent skills across every major IDE and agent platform.</strong>
@@ -36,9 +36,9 @@
 
 ---
 
-## What is SkillHub?
+## What is Skill MarketPlace?
 
-SkillHub is the first open-source marketplace purpose-built for **AI agent skills** — the reusable, composable building blocks that power coding agents like Claude Code, Kiro, Cursor, Windsurf, GitHub Copilot, Cline, and more.
+Skill MarketPlace is the first open-source marketplace purpose-built for **AI agent skills** — the reusable, composable building blocks that power coding agents like Claude Code, Kiro, Cursor, Windsurf, GitHub Copilot, Cline, and more.
 
 Think of it as **npm for agent skills**: browse a curated catalog, inspect SKILL.md definitions, one-click import into your agent, and manage the GitHub sources that feed the registry — all from a single, beautifully crafted dark-mode UI.
 
@@ -209,7 +209,7 @@ Opens at `http://localhost:3000` with backend at `http://localhost:8000`.
 
 ## Deployment
 
-SkillHub is deployed as a split architecture:
+Skill MarketPlace is deployed as a split architecture:
 
 - **Frontend** → Cloudflare Pages (static SPA)
 - **Backend** → Fly.io (FastAPI + SQLite persistent volume)
@@ -257,7 +257,7 @@ skill-hub/
 
 ## Roadmap
 
-SkillHub follows a phased development plan. The current V1.0 release covers the core marketplace, source management, editor, dashboard, and deployment infrastructure. Future versions will expand the platform into a full-featured skill ecosystem.
+Skill MarketPlace follows a phased development plan. The current V1.0 release covers the core marketplace, source management, editor, dashboard, and deployment infrastructure. Future versions will expand the platform into a full-featured skill ecosystem.
 
 ### ✅ V1.0 — Core Platform (Current)
 
@@ -315,7 +315,7 @@ SkillHub follows a phased development plan. The current V1.0 release covers the 
 
 ## Design
 
-SkillHub uses the **Obsidian Forge** dark theme:
+Skill MarketPlace uses the **Obsidian Forge** dark theme:
 
 - Primary: `#6366f1` (Indigo)
 - Accent: `#22d3ee` (Cyan)

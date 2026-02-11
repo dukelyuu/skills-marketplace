@@ -59,7 +59,7 @@ export default {
     viewOnGithub: "Auf GitHub ansehen",
     searchSkills: "Skills suchen",
     explore: "Entdecken",
-    footer: "SkillHub — Open-Source Agent Skill Plattform",
+    footer: "Skill MarketPlace — Open-Source Agent Skill Plattform",
     builtWith: "Erstellt mit FastAPI + React",
   },
   marketplace: {
@@ -186,7 +186,7 @@ export default {
     tokenPlaceholder: "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     testToken: "Token testen",
     syncSchedule: "Sync-Zeitplan",
-    syncDesc: "Konfigurieren Sie, wie oft SkillHub automatisch alle aktiven Quellen von GitHub synchronisiert.",
+    syncDesc: "Konfigurieren Sie, wie oft Skill MarketPlace automatisch alle aktiven Quellen von GitHub synchronisiert.",
     frequency: "Häufigkeit",
     concurrency: "Parallelität",
     every1hour: "Jede Stunde",
